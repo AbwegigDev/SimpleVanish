@@ -1,0 +1,37 @@
+specVersion: 1
+type: plugin
+name:
+  de: SimpleVanish
+  en: SimpleVanish
+authors:
+  - Abwegig
+supportedPlatforms:
+  - spigot
+  - paper
+supportedGameVersions: ^1.19
+category: misc
+introduction:
+  de: Ein einfaches Vanish Plugin um Dich als Teammitglied zu verstecken
+  en: A simple Vanish plugin to hide team members
+description:
+  de: |
+    # Überblick
+    Das Plugin fügt die Commands /vanish und /vanishlist hinzu
+    
+    # Nutzung
+    Zur Nutzung müssen nur die oben genannten Commands eingegeben werden
+  en: |
+    # Overview
+    The plugin adds the commands /vanish and /vanishlist
+    
+    # Usage
+    You only need to execute the commands above
+installation:
+  de: |
+    - Herunterladen der Plugin-Datei
+    - Ablegen der Datei im Plugins-Ordner
+    - Server neustarten
+  en: |
+    - Download the plugin-file
+    - Put the file into your plugins-folder
+    - Restart your server

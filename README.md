@@ -1,7 +1,7 @@
 # SimpleVanish
 A very simple Vanish system
 
-<h3>This is my vanish system</h3>
+<h3>Description</h3>
 
 <h2>Functions</h2>
 You can vanish player easily

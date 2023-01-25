@@ -4,7 +4,7 @@ A very simple Vanish system
 <h3>Description</h3>
 
 <h2>Functions</h2>
-You can vanish player easily
+You can vanish players easily
 
 <h2>Commands</h2>
 The commands are very simple:

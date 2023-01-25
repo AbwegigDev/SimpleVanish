@@ -1,0 +1,7 @@
+name: SimpleVanish
+version: '${project.version}'
+main: de.abwegig.simplevanish.SimpleVanish
+api-version: 1.19
+commands:
+  vanish:
+  vanishlist:

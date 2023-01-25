@@ -31,7 +31,7 @@ public class VanishCommand implements CommandExecutor {
                         all.showPlayer(plugin, player);
                     });
                     player.sendMessage(plugin.getPrefix() + "§7Du bist nun §cnicht mehr §7im Vanish!");
-                    //aus
+                    //vanish mode off
                 } else {
                     plugin.getVanishedPlayer().add(player);
                     Bukkit.getOnlinePlayers().forEach(all -> {
@@ -40,7 +40,7 @@ public class VanishCommand implements CommandExecutor {
                         }
                     });
                     player.sendMessage(plugin.getPrefix() + "§7Du bist nun §aim Vanish!");
-                    //an
+                    //vanish mode on
                 }
             } else {
                 player.sendMessage(plugin.getPrefix() + "§7Du hast §ckeine §7Berechtigungen diesen Command zu benutzen!");
